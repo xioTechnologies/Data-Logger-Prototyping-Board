@@ -14,7 +14,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -122,7 +122,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LVHBYFEG
 
 [Document6]
 DocumentPath=..\x-io-CircuitStudio-Library\x-io.SchLib
@@ -139,7 +139,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BCKSGAQA
 
 [GeneratedDocument1]
 DocumentPath=Default Configuration\Project Outputs for Data-Logger-Prototyping-Board\BOM\BOM_PartType-Data-Logger-Prototyping-Board.xlsx
